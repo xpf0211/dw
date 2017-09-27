@@ -4,7 +4,7 @@
 	<groupId>com.test</groupId>
 	<artifactId>Testmaven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 	<properties>
 		<!-- spring版本号 -->
 		<spring.version>4.2.5.RELEASE</spring.version>
